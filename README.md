@@ -1,7 +1,6 @@
 - 👋 Hi, I’m TAN ZI AN (@zianttt)
 - 👀 I’m interested in Korean cultures
-- 🌱 I’m currently learning R, Python and Java
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning R, Python, Java, JavaScript and other related frameworks
 - 📫 Reach me via ziant0927@gmail.com
 
 <!---
