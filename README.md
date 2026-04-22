@@ -1,6 +1,7 @@
 - 👋 Hi, I’m TAN ZI AN (@zianttt)
 - 👀 AI enthusiast 
 - 🌱 Currently learning lots and lots of stuffs about AI ✨
+- 🎓 Graduate of University Malaya
 - 📫 Reach me via ziant0927@gmail.com
 
 <!---
